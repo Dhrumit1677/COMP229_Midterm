@@ -4,3 +4,4 @@
 
 please use **`npm install`** to install project dependencies
 "# Assignment_Midterm" 
+"# COMP229_Midterm" 
